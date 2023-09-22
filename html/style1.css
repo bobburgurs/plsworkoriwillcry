@@ -1,0 +1,46 @@
+#userGuess{
+    width: 350px;
+    font-family: "Courier New", monospace;
+    display: flex;
+    justify-content: center;
+    background-color: #D5D4D5;
+    border: #f08080;
+    border-radius: 0.5px solid;
+    cursor: pointer;
+    font-size: 25px;
+    color: #69757B;
+}
+#userGuess:hover{
+    background-color: #D0E5EF;
+   }
+   
+
+body{
+    background-color: #9CABB2;
+}
+
+h2 {
+    font-family: "Courier New", monospace;
+    font-size: 50px;
+    color: #F0D1C5;
+    display: flex;
+    justify-content: center;
+}
+
+input[type="text"] {
+    font-family: 'Courier New', monospace;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    color: #6B8B47;
+}
+
+
+#submit {
+    font-family: "Courier New", monospace; 
+    font-size: 25px; 
+    color: #FFF2ED;
+    background-color: #EAB1A3;
+    border-radius: 5px;
+    border-color: #FFF2ED #FFF2ED #A7CBDA #A7CBDA;
+}
